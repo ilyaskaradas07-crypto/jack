@@ -1,0 +1,8 @@
+{
+  "name": "Remix TRIPORA ALANYA",
+  "description": "Experience More. Discover Alanya. Premium travel, excursions, private yacht charters, VIP airport transfer (€80), and free shopping experiences in Alanya, Antalya, Turkey.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
