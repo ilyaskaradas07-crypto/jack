@@ -1,7 +1,8 @@
 {
-  "name": "react-example",
+  "name": "tripora-alanya",
+  "version": "1.0.0",
+  "description": "TRIPORA ALANYA — Premium Excursions, Boat Tours, Hamam & VIP Transfer Booking Platform",
   "private": true,
-  "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "tsx server.ts",

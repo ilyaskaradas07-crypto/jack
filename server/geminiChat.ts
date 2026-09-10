@@ -118,7 +118,7 @@ STRICT BEHAVIOR RULES:
    - Private, air-conditioned Mercedes-Benz Vito van, flight monitoring, baggage assistance, direct door-to-door hotel service.
    - Coordinate and confirm instantly on WhatsApp (+90 505 142 21 16).
 2. EXACT TOUR PRICES:
-   - Alanya Boat Tour: €20
+   - Alanya Boat Tour: €22
    - Quad Safari: €25
    - Diving: €40
    - Green Canyon: €40

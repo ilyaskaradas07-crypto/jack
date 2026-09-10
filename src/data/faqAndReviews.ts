@@ -430,9 +430,9 @@ export const GALLERY_ITEMS = [
   },
   {
     category: 'sea',
-    title: 'Golden Cleopatra Beach & Turquoise Waters',
-    image: '/assets/images/boat-party-swim.jpg',
-    tag: 'Kleopatra Beach'
+    title: 'Baba 07 Davy Jones Kraken Pirate Ship & Multi-Deck Flagship',
+    image: '/assets/images/baba-boat-tour.jpeg',
+    tag: 'Baba 07 Pirate Ship'
   },
   {
     category: 'landmarks',

@@ -28,34 +28,29 @@ interface FeaturedPartyBoatProps {
 
 const GALLERY_IMAGES = [
   {
-    url: '/assets/images/boat-party-foam.jpg',
-    title: 'Legendary Foam Party on Upper Deck',
+    url: '/assets/images/boat-tour.jpg',
+    title: 'Legendary Baba 07 Multi-Deck Flagship in Alanya Harbor',
+    tag: 'Baba 07 Flagship'
+  },
+  {
+    url: '/assets/images/party-alanya-rejs.jpeg',
+    title: 'Famous Daytime Deck Foam Party & Live DJ',
     tag: 'Foam Party'
   },
   {
-    url: '/assets/images/boat-party-pirate.jpg',
-    title: 'Multi-Deck Pirate Party Ship in Alanya',
-    tag: 'Pirate Flagship'
-  },
-  {
-    url: '/assets/images/boat-party-main.jpg',
-    title: 'Alanya Coastline & Sea Caves Cruise',
-    tag: 'Party Cruise'
-  },
-  {
-    url: '/assets/images/boat-party-dance.jpg',
-    title: 'Live DJ & Dance Entertainment',
-    tag: 'DJ & Music'
-  },
-  {
-    url: '/assets/images/boat-party-swim.jpg',
-    title: 'Swimming in Crystal Turquoise Waters',
-    tag: 'Swim Stops'
+    url: '/assets/images/blekitny-rejs34.jpg',
+    title: 'Sailing past Alanya Red Tower (Kızıl Kule) & Castle',
+    tag: 'Red Tower Cruise'
   },
   {
     url: '/assets/images/baba-boat-tour.jpeg',
-    title: 'Legendary Baba 07 Multi-Deck Flagship',
-    tag: 'Baba 07'
+    title: 'Davy Jones Kraken Pirate Sculpture Entrance',
+    tag: 'Pirate Theme'
+  },
+  {
+    url: '/assets/images/baba-boat-a.jpeg',
+    title: 'Baba 07 Pirates Boarding & Multi-Deck Amenities',
+    tag: 'Ship Boarding'
   }
 ];
 
@@ -173,7 +168,7 @@ export const FeaturedPartyBoat: React.FC<FeaturedPartyBoatProps> = ({
             </div>
 
             {/* Thumbnail Navigation Strip */}
-            <div className="grid grid-cols-4 gap-2 sm:gap-3">
+            <div className="grid grid-cols-5 gap-2 sm:gap-2.5">
               {GALLERY_IMAGES.map((img, idx) => (
                 <button
                   key={idx}
